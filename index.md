@@ -78,7 +78,7 @@ E-mail: ksk8863@korea.ac.kr
   9. [<u> Robust optimal parameter estimation for the Susceptible-Unidentified infected-Confirmed model.</u>](https://ksk8863.github.io/sangkwon.github.io/) (20210623) Chaeyoung Lee, Soobin Kwak, **Sangkwon Kim**, Youngjin Hwang, Yongho Choi, Junseok Kim, *Chaos, Solitons and Fractals*, 2021.
 
 
-## In Preparation
+## In Preparation Papers
   1. [<u> A simple and efficient fingerprint image restoration method based on a phase-field model.</u>](https://ksk8863.github.io/sangkwon.github.io/) Yibao Li, Qing Xia, Chaeyoung Lee, **Sangkwon Kim**, Junseok Kim, *Pattern Recognition*, 2021. (BK21 FOUR)
   2. [<u> Non-uniform finite difference scheme for the three-dimensional time-fractional Black-Scholes equation.</u>](https://ksk8863.github.io/sangkwon.github.io/) **Sangkwon Kim**, Chaeyoung Lee, Wonjin Lee, Soobin Kwak, Darae Jeong, Junseok Kim, *Numerical Algorithms*, 2021.
   3. [<u> An unconditionally positivity preserving scheme for the Fisher-Kolmogorov-Petrovsky-Piscounov equation.</u>](https://ksk8863.github.io/sangkwon.github.io/) **Sangkwon Kim**, Chaeyoung Lee, Hyun Geun Lee, Hyundong Kim, Soobin Kwak, Youngjin Hwang, Junseok Kim, *Applied Numerical Mathematics*, 2021.
