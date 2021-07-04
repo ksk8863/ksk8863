@@ -95,7 +95,7 @@ layout: publications
 <img align="left" width="8.1%" src="https://raw.githubusercontent.com/ksk8863/sangkwon.github.io/master/assets/img/Octave.png">
 &nbsp;&nbsp;&nbsp;코딩교육을 위한 옥타브 <br/> 
 &nbsp;&nbsp;&nbsp;김준석, 김상권, 이채영 지음 | 이모션미디어 | 2019년 07월 15일 출간 <br><br><br><br>
-<img align="left" width="8.3%" src="https://raw.githubusercontent.com/ksk8863/sangkwon.github.io/master/assets/img/voronoi.png">
+<img align="left" width="8.2%" src="https://raw.githubusercontent.com/ksk8863/sangkwon.github.io/master/assets/img/voronoi.png">
 &nbsp;&nbsp;&nbsp;보르노이 다이어그램 공공기관의 관할구역을 정할 때 사용할 수 있는 코딩 코딩수학 할 수 있다 1 <br/> 
 &nbsp;&nbsp;&nbsp;김준석, 곽수빈, 김상권, 윤성하, 김현동, 문현, 이채영 지음 | 지오북스 | 2020년 11월 01일 출간 <br><br><br><br>
 <img align="left" width="8.5%" src="https://raw.githubusercontent.com/ksk8863/sangkwon.github.io/master/assets/img/machine1.png">
