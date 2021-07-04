@@ -3,9 +3,9 @@ layout: about
 ---
 
 <!-- # About Me -->
-Department of Mathematics, Korea University
-145, Anam-ro, Seongbuk-gu, Seoul, 02841, Korea
-Office: 636 Asan Science Building
+Department of Mathematics, Korea University\
+145, Anam-ro, Seongbuk-gu, Seoul, 02841, Korea\
+Office: 636 Asan Science Building\
 E-mail: ksk8863@korea.ac.kr
 
 <br/>
