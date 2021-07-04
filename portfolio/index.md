@@ -3,7 +3,7 @@ layout: publications
 ---
 
 
-# Books
+# Books1
 ![Octocat](/assets/img/codingmath4-1.png)
 코딩수학. 4 최단 택배 경로 정하기 | 유전 알고리즘(Generic Algorithm) 김준석 , 김상권 , 정다래 , 김성기 지음 | 이모션미디어 | 2017년 11월 15일 출간 <br><br><br>
 <img align="left" width="7%" src="/assets/img/codingmath4-1.png">
