@@ -7,7 +7,7 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 # Author
 author:
   name: Sangkwon Kim
-#   desc: Hello nice to meet you
+  desc: Applied Mathematics Researcher
   email: ksk8863@korea.ac.kr
   selfie: assets/img/image.jpg
 
@@ -34,7 +34,7 @@ social:
   twitter: ksk8863
   vimeo:
   wordpress:
-  youtube:
+  youtube: ksk8863
   default_txt: "Follow On"
 
 # Build settings
