@@ -1,5 +1,5 @@
 # Site settings
-title: Sangkwon
+title: Ph.D Sangkwon Kim
 baseurl: "/sangkwon.github.io"
 url: "https://ksk8863.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
@@ -7,7 +7,7 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 # Author
 author:
   name: Sangkwon Kim
-  desc: Hello nice to meet you
+#   desc: Hello nice to meet you
   email: ksk8863@korea.ac.kr
   selfie: assets/img/profile.jpg
 
@@ -19,11 +19,11 @@ social:
   dribbble:
   facebook: Test
   flickr:
-  github: kssim
+  github: ksk8863
   google_plus:
   instagram:
   keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
+  linkedin: #https://www.linkedin.com/in/kssim/ 
   pinterest:
   reddit:
   soundcloud:
