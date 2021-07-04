@@ -36,5 +36,5 @@ E-mail: ksk8863@korea.ac.kr
 
 # Publications
 ## Published or Accepted Papers
-  1. [<u> Reconstruction of the time-dependent volatility function using the Black-Scholes model.</u>](https://www.hindawi.com/journals/ddns/2018/3093708/) Yuzi Jin, Jian Wang, Sangkwon Kim, Youngjin Heo, Changwoo Yoo, Young Rock Kim, Junseok Kim, and Darae Jeong, Discrete Dynamics in Nature and Society, Vol. 2018, Article ID 3093708. (KIAS).
+  1. [<u> Reconstruction of the time-dependent volatility function using the Black-Scholes model.</u>](https://www.hindawi.com/journals/ddns/2018/3093708/) Yuzi Jin, Jian Wang, **Sangkwon Kim**, Youngjin Heo, Changwoo Yoo, Young Rock Kim, Junseok Kim, and Darae Jeong, *Discrete Dynamics in Nature and Society*, Vol. 2018, Article ID 3093708. (KIAS).
 
