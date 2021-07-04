@@ -1,6 +1,6 @@
 # Site settings
 title: Sangkwon
-baseurl: "/sangkwon"
+baseurl: "/sangkwon.github.io"
 url: "https://ksk8863.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
