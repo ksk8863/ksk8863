@@ -2,25 +2,29 @@
 layout: about 
 ---
 
-# About Me
-aaaaa is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+<!-- # About Me -->
+Department of Mathematics, Korea University
+145, Anam-ro, Seongbuk-gu, Seoul, 02841, Korea
+Office: 636 Asan Science Building
+E-mail: ksk8863@korea.ac.kr
 
 <br/>
 
-# Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+# Education
+* Ph.D. Korea University, Mathematics, Aug. 2021.
+* M.S. Korea University, Mathematics, Aug. 2018.
+* B.S. Hanshin University, Mathematics, Aug. 2012.
 
 <br/>
 
-# Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+# Employment
+* Undetermined.
+
+<br/>
+
+# Research Interests
+* Phase-Filed Models
+* Fluid Dynamics
+* Finance Engineering
+* Deep Learning with Physics
+* Mathematics Modeling
