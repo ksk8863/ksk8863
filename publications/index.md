@@ -8,7 +8,7 @@ layout: publications
 ##### ORCID: [0000-0002-8495-819X](https://orcid.org/0000-0002-8495-819X)
 
 ## Published or Accepted Papers
-  1. **[<u> Reconstruction of the time-dependent volatility function using the Black-Scholes model.</u>]**(https://www.hindawi.com/journals/ddns/2018/3093708/) Yuzi Jin, Jian Wang, **Sangkwon Kim**, Youngjin Heo, Changwoo Yoo, Young Rock Kim, Junseok Kim, and Darae Jeong, *Discrete Dynamics in Nature and Society*, Vol. 2018, Article ID 3093708.
+  1. [**<u> Reconstruction of the time-dependent volatility function using the Black-Scholes model.</u>**](https://www.hindawi.com/journals/ddns/2018/3093708/) Yuzi Jin, Jian Wang, **Sangkwon Kim**, Youngjin Heo, Changwoo Yoo, Young Rock Kim, Junseok Kim, and Darae Jeong, *Discrete Dynamics in Nature and Society*, Vol. 2018, Article ID 3093708.
   2. [<u> Android application for pricing two-and three-asset equity-linked securities.</u>](https://www.koreascience.or.kr/article/JAKO201927561418079.page) Hanbyeol Jang, Hyunsoo Han, Hayeon Park, Wonjin Lee, Jisang Lyu, Jintae Park, Hyundong Kim, Chaeyoung Lee, **Sangkwon Kim**, Yongho Choi, and Junseok Kim, *Journal of the Korean Society for Industrial and Applied Mathematics*, Vol. 23, pp. 237-251, 2019.
   3. [<u> Mathematical modeling and simulation for 3D pattern formation of honeycombs.</u>](https://www.nature.com/articles/s41598-019-56942-6) Darae Jeong, Yibao Li, **Sangkwon Kim**, Yongho Choi, Chaeyoung Lee, and Junseok Kim, *Scientific reports*, Vol. 9, 20364, 2019.
   4. [<u> Super-fast computation for the three-asset equity-linked securities using finite difference method.</u>](https://www.mdpi.com/2227-7390/8/3/307) Chaeyoung Lee, Jisang Lyu, Eunchae Park, Wonjin Lee, **Sangkwon Kim**, Darae Jeong, and Junseok Kim, *Mathematics*, 2020, 8, 307.
@@ -59,13 +59,13 @@ layout: publications
 <br/>
 
 # Books
-<img align="left" width="8%" src="https://raw.githubusercontent.com/ksk8863/sangkwon.github.io/master/assets/img/codingmath4.png">
+<img align="left" width="9%" src="https://raw.githubusercontent.com/ksk8863/sangkwon.github.io/master/assets/img/codingmath4.png">
 코딩수학. 4 최단 택배 경로 정하기 | 유전 알고리즘(Generic Algorithm) <br/> 
 김준석 , 김상권 , 정다래 , 김성기 지음 | 이모션미디어 | 2017년 11월 15일 출간 <br><br><br><br>
-<img align="left" width="8%" src="https://raw.githubusercontent.com/ksk8863/sangkwon.github.io/master/assets/img/codingmath4-1.png">
+<img align="left" width="9%" src="https://raw.githubusercontent.com/ksk8863/sangkwon.github.io/master/assets/img/codingmath4-1.png">
 코딩수학 4-1(심화편)제주도와 세계일주 최적 경로 정하기 코딩, 수학과 콜라보레이션 <br/> 
 김준석 , 김상권 지음 | 이모션미디어 | 2018년 05월 01일 출간 <br><br><br><br>
-<img align="left" width="8%" src="https://raw.githubusercontent.com/ksk8863/sangkwon.github.io/master/assets/img/codingmath5.png">
+<img align="left" width="9%" src="https://raw.githubusercontent.com/ksk8863/sangkwon.github.io/master/assets/img/codingmath5.png">
 코딩수학. 5 아름다운 무한 반복 도형 | 프랙탈(Fractal) 구조 <br/> 
 김준석 , 김상권 , 최용호 , 정다래 지음 | 이모션미디어 | 2018년 01월 01일 출간 <br><br><br><br>
 <img align="left" width="7.5%" src="https://raw.githubusercontent.com/ksk8863/sangkwon.github.io/master/assets/img/codingmath6.png">
