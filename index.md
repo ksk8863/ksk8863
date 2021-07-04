@@ -120,7 +120,7 @@ E-mail: ksk8863@korea.ac.kr
 <img align="left" width="7%" src="/assets/img/machine1.jpg">
 25시간만에 배우는 머신러닝 예제: MATLAB 활용 김준석 , 김상권 , 정다래 , 최용호 , 김성기 , 김영록 지음 | 이모션미디어 | 2017년 09월 01일 출간 <br><br><br>
 <img align="left" width="7%" src="/assets/img/machine3.jpg">
-25시간만에 배우는 머신러닝 예제 파이썬 활용 김준석 , 김상권 , 한현수 , 김영록 지음 | 이모션미디어 | 2018년 01월 31일 출간 <br><br><br>
+25시간만에 배우는 머신러닝 예제 파이썬 활용 김준석 , 김상권 , 한현수 , 김영록 지음 | 이모션미디어 | 2018년 01월 31일 출간 <br><br><br><br>
 <img align="left" width="7%" src="/assets/img/machine2.jpg">
 25시간만에 배우는 머신러닝 예제 (MATLAB 활용) 2판 김준석 , 김상권 , 정다래 , 최용호 , 김성기 , 김영록 지음 | 이모션미디어 | 2018년 11월 30일 출간 <br><br><br>
 <img align="left" width="7%" src="/assets/img/machine4.jpg">
