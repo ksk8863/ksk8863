@@ -14,9 +14,10 @@ E-mail: ksk8863@korea.ac.kr
 <br/>
 
 # Education
-* Ph.D. Korea University, Mathematics, Aug. 2021.
-* M.S. Korea University, Mathematics, Aug. 2018.
-* B.S. Hanshin University, Mathematics, Aug. 2012.
+* Ph.D. Department of Mathematics, Korea University, Aug. 2021.
+* M.S. Department of Mathematics, Korea University, Aug. 2018.
+* B.S. Department of Mathematics, Hanshin University, Aug. 2012.
+* Junseok Kim - Ph.D. Advisor, [Homepage](https://mathematicians.korea.ac.kr/cfdkim/)
 
 <br/>
 
@@ -34,7 +35,10 @@ E-mail: ksk8863@korea.ac.kr
 
 <br/>
 
+
 # Publications
+##### ORCID: [0000-0002-8495-819X](https://orcid.org/0000-0002-8495-819X)
+
 ## Published or Accepted Papers
   1. [<u> Reconstruction of the time-dependent volatility function using the Black-Scholes model.</u>](https://www.hindawi.com/journals/ddns/2018/3093708/) Yuzi Jin, Jian Wang, **Sangkwon Kim**, Youngjin Heo, Changwoo Yoo, Young Rock Kim, Junseok Kim, and Darae Jeong, *Discrete Dynamics in Nature and Society*, Vol. 2018, Article ID 3093708.
   2. [<u> Android application for pricing two-and three-asset equity-linked securities.</u>](https://www.koreascience.or.kr/article/JAKO201927561418079.page) Hanbyeol Jang, Hyunsoo Han, Hayeon Park, Wonjin Lee, Jisang Lyu, Jintae Park, Hyundong Kim, Chaeyoung Lee, **Sangkwon Kim**, Yongho Choi, and Junseok Kim, *Journal of the Korean Society for Industrial and Applied Mathematics*, Vol. 23, pp. 237-251, 2019.
