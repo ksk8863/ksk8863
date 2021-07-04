@@ -83,3 +83,9 @@ E-mail: ksk8863@korea.ac.kr
   2. [<u> Non-uniform finite difference scheme for the three-dimensional time-fractional Black-Scholes equation.</u>](https://ksk8863.github.io/sangkwon.github.io/) **Sangkwon Kim**, Chaeyoung Lee, Wonjin Lee, Soobin Kwak, Darae Jeong, Junseok Kim, *Numerical Algorithms*, 2021.
   3. [<u> An unconditionally positivity preserving scheme for the Fisher-Kolmogorov-Petrovsky-Piscounov equation.</u>](https://ksk8863.github.io/sangkwon.github.io/) **Sangkwon Kim**, Chaeyoung Lee, Hyun Geun Lee, Hyundong Kim, Soobin Kwak, Youngjin Hwang, Junseok Kim, *Applied Numerical Mathematics*, 2021.
   4. [<u> An adaptive time stepping algorithm for the Allen-Cahn equation.</u>](https://ksk8863.github.io/sangkwon.github.io/) Chaeyoung Lee, Jintae Park, Soobin Kwak, **Sangkwon Kim**, Yongho Choi, Junseok Kim, *Acta Applicandae Mathematicae*, 2021.
+
+<br/>
+
+# Books
+<img align="left" src="/assets/img/image.jpg" width="10%" >
+sfsdfdsafasdf 
