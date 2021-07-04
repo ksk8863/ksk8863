@@ -2,7 +2,7 @@
 layout: about 
 ---
 
-<!-- # About Me -->
+# About Me
 Department of Mathematics, Korea University
 
 145, Anam-ro, Seongbuk-gu, Seoul, 02841, Korea
