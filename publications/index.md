@@ -8,8 +8,8 @@ layout: publications
 SCIE/SSCI: 19, KCI: 2, Book: 18
 
 ## Thesis
-M.S.(2019) [**<u> Numerical simulation of the fluid flow on stairs.</u>**](https://ksk8863.github.io/ksk8863)<br>
-Ph.D.(2021) [**<u> Numerical analysis and simulation of partial differential equation in various fields.</u>**](https://ksk8863.github.io/ksk8863)
+M.S.(2019) [**<u> Numerical simulation of the fluid flow on stairs.</u>**](https://ksk8863.github.io/ksk8863/publications/)<br>
+Ph.D.(2021) [**<u> Numerical analysis and simulation of partial differential equation in various fields.</u>**](https://ksk8863.github.io/ksk8863/publications/)
 
 
 ## Published or Accepted Papers
