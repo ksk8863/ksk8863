@@ -12,6 +12,15 @@ M.S.(2019) [**<u> Numerical simulation of the fluid flow on stairs.</u>**](https
 Ph.D.(2021) [**<u> Numerical analysis and simulation of partial differential equation in various fields.</u>**](https://ksk8863.github.io/ksk8863/publications/)
 
 
+<span>1.</span> item 1<br/>
+<span>2.</span> item 2
+```
+Code block
+```
+<span>3.</span> item 3
+
+
+
 ## Published or Accepted Papers
 ### SCIE/SSCI
    #### 2018
