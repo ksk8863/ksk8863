@@ -8,7 +8,7 @@ layout: publications
 SCIE/SSCI: 19, KCI: 2, Book: 18
 
 ## Thesis
-M.S.(2019) [**<u> Numerical simulation of the fluid flow on stairs.</u>**](https://ksk8863.github.io/ksk8863)
+M.S.(2019) [**<u> Numerical simulation of the fluid flow on stairs.</u>**](https://ksk8863.github.io/ksk8863)<br>
 Ph.D.(2021) [**<u> Numerical analysis and simulation of partial differential equation in various fields.</u>**](https://ksk8863.github.io/ksk8863)
 
 
@@ -38,7 +38,7 @@ Ph.D.(2021) [**<u> Numerical analysis and simulation of partial differential equ
   18. [**<u> Robust and accurate construction of the local volatility surface using the Black-Scholes equation.</u>**](https://www.sciencedirect.com/science/article/pii/S0960077921004707?casa_token=Cx4domvxK-sAAAAA:qYrvoxguCJPk8r8Jhul2bvm-WtPbISPN6sw1xDLl1AZuTbgc8V7ArCaKyEpzE7E54WcTxXUK7JA) **Sangkwon Kim**, Junseok Kim, *Chaos, Solitons & Fractals*, 2021. **(IF 3.764, Q1)**
   19. [**<u> Calibration of the temporally varying volatility and interest rate functions.</u>**](https://www.tandfonline.com/doi/full/10.1080/00207160.2021.1948539?casa_token=I9RyfOfRbtgAAAAA%3A4ULrh_-Tp5QMc0TIhZ1r96PPoDZI7YKpg4QhI6fRmJ4lQRHnEy-4pef_hI72NV2CfUaEW28Dz9F0Fg) Eunchae Park, Jisang Lyu, **Sangkwon Kim**, Chaeyoung Lee, Wonjin Lee, Yongho Choi, Soobin Kwak, Changwoo Yoo, Hyeongseok Hwang, Junseok Kim, *International Journal of Computer Mathematics*, 2021. (IF 1.6)
 
-## KCI
+### KCI
  1. [**<u> Android application for pricing two-and three-asset equity-linked securities.</u>**](https://www.koreascience.or.kr/article/JAKO201927561418079.page) Hanbyeol Jang, Hyunsoo Han, Hayeon Park, Wonjin Lee, Jisang Lyu, Jintae Park, Hyundong Kim, Chaeyoung Lee, **Sangkwon Kim**, Yongho Choi, and Junseok Kim, *Journal of the Korean Society for Industrial and Applied Mathematics*, Vol. 23, pp. 237-251, 2019.
  2. [**<u> Domain of influence of local volatility function on the solutions of the general Black-Scholes equation.</u>**](https://www.koreascience.or.kr/article/JAKO202014151763063.page) Hyundong Kim, **Sangkwon Kim**, Hyunsoo Han, Hanbyeol Jang, Chaeyoung Lee, and Junseok Kim, *Journal of the Korean Society of Mathematical Education Series B: THE PURE AND APPLIED MATHEMATICS*, 2020.
   
