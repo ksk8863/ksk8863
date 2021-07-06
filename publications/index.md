@@ -14,12 +14,10 @@ Ph.D.(2021) [**<u> Numerical analysis and simulation of partial differential equ
 
 ## Published or Accepted Papers
 ### SCIE/SSCI
-#### 2018
-  1. [**<u> Reconstruction of the time-dependent volatility function using the Black-Scholes model.</u>**](https://www.hindawi.com/journals/ddns/2018/3093708/) Yuzi Jin, Jian Wang, **Sangkwon Kim**, Youngjin Heo, Changwoo Yoo, Young Rock Kim, Junseok Kim, and Darae Jeong, *Discrete Dynamics in Nature and Society*, Vol. 2018, Article ID 3093708. (IF 0.87)
- 
+&nbsp&nbsp#### 2018
+  1. [**<u> Reconstruction of the time-dependent volatility function using the Black-Scholes model.</u>**](https://www.hindawi.com/journals/ddns/2018/3093708/) Yuzi Jin, Jian Wang, **Sangkwon Kim**, Youngjin Heo, Changwoo Yoo, Young Rock Kim, Junseok Kim, and Darae Jeong, *Discrete Dynamics in Nature and Society*, Vol. 2018, Article ID 3093708. (IF 0.87) 
 #### 2019
-  2. [**<u> Mathematical modeling and simulation for 3D pattern formation of honeycombs.</u>**](https://www.nature.com/articles/s41598-019-56942-6) Darae Jeong, Yibao Li, **Sangkwon Kim**, Yongho Choi, Chaeyoung Lee, and Junseok Kim, *Scientific reports*, Vol. 9, 20364, 2019. **(IF 3.998, Q1)**
-  
+  2. [**<u> Mathematical modeling and simulation for 3D pattern formation of honeycombs.</u>**](https://www.nature.com/articles/s41598-019-56942-6) Darae Jeong, Yibao Li, **Sangkwon Kim**, Yongho Choi, Chaeyoung Lee, and Junseok Kim, *Scientific reports*, Vol. 9, 20364, 2019. **(IF 3.998, Q1)**  
 #### 2020
   3. [**<u> Super-fast computation for the three-asset equity-linked securities using finite difference method.</u>**](https://www.mdpi.com/2227-7390/8/3/307) Chaeyoung Lee, Jisang Lyu, Eunchae Park, Wonjin Lee, **Sangkwon Kim**, Darae Jeong, and Junseok Kim, *Mathematics*, 2020, 8, 307. **(IF 1.747, Q1)**
   4. [**<u> Finite difference method for the multi-asset Black-Scholes equations.</u>**](https://www.mdpi.com/2227-7390/8/3/391) **Sangkwon Kim**, Darae Jeong, Chaeyoung Lee, and Junseok Kim, *Mathematics*, 2020, 8, 391. **(IF 1.747, Q1)**
@@ -28,8 +26,7 @@ Ph.D.(2021) [**<u> Numerical analysis and simulation of partial differential equ
   7. [**<u> An accurate and practical explicit hybrid method for the Chan-Vese image segmentation model.</u>**](https://www.mdpi.com/2227-7390/8/7/1173) Darae Jeong, **Sangkwon Kim**, Chaeyoung Lee, Junseok Kim, *Mathematics*, Vol. 8, 1173, 2020. **(IF 1.747, Q1)**
   8. [**<u> Periodic travelling wave solutions for a reaction-diffusion system on landscape fitted domains.</u>**](https://www.sciencedirect.com/science/article/pii/S0960077920306962?casa_token=ivdKbrYFzx4AAAAA:TuYX08pVGW1XpQw14TJNauAQhVXem9TDu8q_rIFBh8nKHMPErr27ia9YsQhbW5THtGtqw72wtn0) **Sangkwon Kim**, Jintae Park, Chaeyoung Lee, Darae Jeong, Yongho Choi, Soobin Kwak, and Junseok Kim, *Chaos, Solitons & Fractals*, Vol. 139, 110300, 2020. **(IF 3.764, Q1)**
   9. [**<u> Phase-field modeling and computer simulation of the coffee-ring effect.</u>**](https://link.springer.com/article/10.1007/s00162-020-00544-w) Junxiang Yang, Hyundong Kim, Chaeyoung Lee, **Sangkwon Kim**, Jian Wang, Sungha Yoon, Jintae Park, and Junseok Kim, *Theoretical and Computational Fluid Dynamics*, Vol. 34, pp. 679-692, Dec. 2020. (IF 1.675)
-  10. [**<u> Fast Monte-Carlo simulation for equity-linked securities.</u>**](https://link.springer.com/article/10.1007%2Fs10614-019-09947-2) Hanbyeol Jang, **Sangkwon Kim**, Junhee Han, Seongjin Lee, Jungyup Ban, Hyunsoo Han, Chaeyoung Lee, Darae Jeong, Junseok Kim, *Computational Economics*, Vol. 56, pp. 865-882, Dec. 2020. (IF 1.317)<br/>
-
+  10. [**<u> Fast Monte-Carlo simulation for equity-linked securities.</u>**](https://link.springer.com/article/10.1007%2Fs10614-019-09947-2) Hanbyeol Jang, **Sangkwon Kim**, Junhee Han, Seongjin Lee, Jungyup Ban, Hyunsoo Han, Chaeyoung Lee, Darae Jeong, Junseok Kim, *Computational Economics*, Vol. 56, pp. 865-882, Dec. 2020. (IF 1.317)
 #### 2021
   11. [**<u> On the evolutionary dynamics of the Cahn-Hilliard equation with cut-off mass source.</u>**](https://doc.global-sci.org/uploads/Issue/NMTMA/v14n1/141_242.pdf?1602211482) Chaeyoung Lee, Hyundong Kim, Sungha Yoon, Jintae Park, **Sangkwon Kim**, Junxiang Yang, and Junseok Kim, *Numerical Mathematics: Theory, Methods and Applications*, Vol. 14, pp. 242-260, 2021. **(IF 1.659, Q1)**
   12. [**<u> Modeling and simulation of droplet evaporation using a modified Cahn-Hilliard equation.</u>**](https://www.sciencedirect.com/science/article/pii/S0096300320305464?casa_token=5HNRL0rTkygAAAAA:6eGJULPkSbn-mrIPTRcBkbEmibpQg58nNmqxwRp06TCwU3cx1lmjLwF7SnOHBSj_3rDExuT4yv0) Hyun Geun Lee, Junxiang Yang, **Sangkwon Kim**, and Junseok Kim, *Applied Mathematics and Computation*, Feb. 2021. **(IF 3.472, Q1)**
