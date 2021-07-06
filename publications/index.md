@@ -40,7 +40,7 @@ Ph.D.(2021) [**<u> Numerical analysis and simulation of partial differential equ
   
 
 ## Revision Submitted Papers
-  1. [**<u> Phase-field computations of anisotropic ice crystal growth on a spherical surface.</u>**](https://www.editorialmanager.com/hmt/default.aspx) (20201209, Due date March 16, 2021) Chaeyoung Lee, Sungha Yoon, Jintae Park, Hyundong Kim, Yibao Li, Darae Jeong, **Sangkwon Kim**, Soobin Kwak, Junseok Kim, *International Journal of Heat and Mass Transfer*, 2021.
+  1. [**<u> Phase-field computations of anisotropic ice crystal growth on a spherical surface.</u>**](https://www.editorialmanager.com/hmt/Default.aspx) (20201209, Due date March 16, 2021) Chaeyoung Lee, Sungha Yoon, Jintae Park, Hyundong Kim, Yibao Li, Darae Jeong, **Sangkwon Kim**, Soobin Kwak, Junseok Kim, *International Journal of Heat and Mass Transfer(cfdkim@, !)*, 2021. **(IF 4.947, Q1)**
 
 
 ## In Revision Pappers
