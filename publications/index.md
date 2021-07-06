@@ -48,13 +48,13 @@ layout: publications
   7. [**<u> Fast and efficient numerical method for multiphase image segmentation.</u>**](https://ksk8863.github.io/sangkwon.github.io/) (20210614 cfdkim) Yibao Li, Sungha Yoon, Jian Wang, Jintae Park, **Sangkwon Kim**, Chaeyoung Lee, Hyundong Kim, Junseok Kim, *Journal of Mathematical Imaging and Vision*, 2021. (3D Printing)
   8. [**<u> Three-dimensional volume reconstruction from slice data using a shape transformation.</u>**](https://ksk8863.github.io/sangkwon.github.io/) (20210618) Hyundong Kim, Chaeyoung Lee, Soobin Kwak, Youngjin Hwang, **Sangkwon Kim**, Yongho Choi, Junseok Kim, *Computers and Mathematics with Applications*, 2021.
   9. [**<u> Robust optimal parameter estimation for the Susceptible-Unidentified infected-Confirmed model.</u>**](https://ksk8863.github.io/sangkwon.github.io/) (20210623) Chaeyoung Lee, Soobin Kwak, **Sangkwon Kim**, Youngjin Hwang, Yongho Choi, Junseok Kim, *Chaos, Solitons & Fractals*, 2021.
+  10. [**<u> Non-uniform finite difference scheme for the three-dimensional time-fractional Black-Scholes equation.</u>**](https://www.editorialmanager.com/jamc/default.aspx) **Sangkwon Kim**, Chaeyoung Lee, Wonjin Lee, Soobin Kwak, Darae Jeong, Junseok Kim, *Journal of Applied Mathematics and Computing*, 2021.
+  11. [**<u> An unconditionally positivity preserving scheme for the Fisher-Kolmogorov-Petrovsky-Piscounov equation.</u>**](https://www.editorialmanager.com/jdde/default.aspx) **Sangkwon Kim**, Chaeyoung Lee, Hyun Geun Lee, Hyundong Kim, Soobin Kwak, Youngjin Hwang, Junseok Kim, *Journal of Dynamics and Differential Equations*, 2021.
 
 
 ## In Preparation Papers
   1. [**<u> A simple and efficient fingerprint image restoration method based on a phase-field model.</u>**](https://ksk8863.github.io/sangkwon.github.io/) Yibao Li, Qing Xia, Chaeyoung Lee, **Sangkwon Kim**, Junseok Kim, *Pattern Recognition*, 2021. (BK21 FOUR)
-  2. [**<u> Non-uniform finite difference scheme for the three-dimensional time-fractional Black-Scholes equation.</u>**](https://ksk8863.github.io/sangkwon.github.io/) **Sangkwon Kim**, Chaeyoung Lee, Wonjin Lee, Soobin Kwak, Darae Jeong, Junseok Kim, *Numerical Algorithms*, 2021.
-  3. [**<u> An unconditionally positivity preserving scheme for the Fisher-Kolmogorov-Petrovsky-Piscounov equation.</u>**](https://ksk8863.github.io/sangkwon.github.io/) **Sangkwon Kim**, Chaeyoung Lee, Hyun Geun Lee, Hyundong Kim, Soobin Kwak, Youngjin Hwang, Junseok Kim, *Applied Numerical Mathematics*, 2021.
-  4. [**<u> An adaptive time stepping algorithm for the Allen-Cahn equation.</u>**](https://ksk8863.github.io/sangkwon.github.io/) Chaeyoung Lee, Jintae Park, Soobin Kwak, **Sangkwon Kim**, Yongho Choi, Junseok Kim, *Acta Applicandae Mathematicae*, 2021.
+  2. [**<u> An adaptive time stepping algorithm for the Allen-Cahn equation.</u>**](https://ksk8863.github.io/sangkwon.github.io/) Chaeyoung Lee, Jintae Park, Soobin Kwak, **Sangkwon Kim**, Yongho Choi, Junseok Kim, *Acta Applicandae Mathematicae*, 2021.
 
 <br/>
 
