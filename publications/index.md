@@ -18,7 +18,8 @@ Ph.D.(2021) [**<u> Numerical analysis and simulation of partial differential equ
   1. [**<u> Reconstruction of the time-dependent volatility function using the Black-Scholes model.</u>**](https://www.hindawi.com/journals/ddns/2018/3093708/) Yuzi Jin, Jian Wang, **Sangkwon Kim**, Youngjin Heo, Changwoo Yoo, Young Rock Kim, Junseok Kim, and Darae Jeong, *Discrete Dynamics in Nature and Society*, Vol. 2018, Article ID 3093708. (IF 0.87)
  
 #### 2019
-  2. [**<u> Mathematical modeling and simulation for 3D pattern formation of honeycombs.</u>**](https://www.nature.com/articles/s41598-019-56942-6) Darae Jeong, Yibao Li, **Sangkwon Kim**, Yongho Choi, Chaeyoung Lee, and Junseok Kim, *Scientific reports*, Vol. 9, 20364, 2019. **(IF 3.998, Q1)**<br/>
+  2. [**<u> Mathematical modeling and simulation for 3D pattern formation of honeycombs.</u>**](https://www.nature.com/articles/s41598-019-56942-6) Darae Jeong, Yibao Li, **Sangkwon Kim**, Yongho Choi, Chaeyoung Lee, and Junseok Kim, *Scientific reports*, Vol. 9, 20364, 2019. **(IF 3.998, Q1)**
+  
 #### 2020
   3. [**<u> Super-fast computation for the three-asset equity-linked securities using finite difference method.</u>**](https://www.mdpi.com/2227-7390/8/3/307) Chaeyoung Lee, Jisang Lyu, Eunchae Park, Wonjin Lee, **Sangkwon Kim**, Darae Jeong, and Junseok Kim, *Mathematics*, 2020, 8, 307. **(IF 1.747, Q1)**
   4. [**<u> Finite difference method for the multi-asset Black-Scholes equations.</u>**](https://www.mdpi.com/2227-7390/8/3/391) **Sangkwon Kim**, Darae Jeong, Chaeyoung Lee, and Junseok Kim, *Mathematics*, 2020, 8, 391. **(IF 1.747, Q1)**
