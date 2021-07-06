@@ -23,6 +23,6 @@ layout: publications
 <br/>
 
 # Coworkers
-[Yongho Choi](http://appliedmath.synology.me/wordpress/)
+[Yongho Choi](http://appliedmath.synology.me/wordpress/)<br/>
 [Chaeyoung Lee](https://sites.google.com/view/chaeyounglee)
 
