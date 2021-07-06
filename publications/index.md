@@ -14,9 +14,7 @@ Ph.D.(2021) [**<u> Numerical analysis and simulation of partial differential equ
 
 <span>1.</span> item 1<br/>
 <span>2.</span> item 2
-```
 Code block
-```
 <span>3.</span> item 3
 
 
