@@ -27,7 +27,7 @@ E-mail: ksk8863@korea.ac.kr
 <br/>
 
 # Research Interests
-* Phase-Filed Models
+* Phase-Field Models
 * Computational Fluid Dynamics
 * Mathematics Finance
 * Deep Learning with Physics
