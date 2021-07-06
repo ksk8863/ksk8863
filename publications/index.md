@@ -15,7 +15,7 @@ Ph.D.(2021) [**<u> Numerical analysis and simulation of partial differential equ
 ## Published or Accepted Papers
 ### SCIE/SSCI
    
-- 2018
+- 2018 <br\>
   1. [**<u> Reconstruction of the time-dependent volatility function using the Black-Scholes model.</u>**](https://www.hindawi.com/journals/ddns/2018/3093708/) Yuzi Jin, Jian Wang, **Sangkwon Kim**, Youngjin Heo, Changwoo Yoo, Young Rock Kim, Junseok Kim, and Darae Jeong, *Discrete Dynamics in Nature and Society*, Vol. 2018, Article ID 3093708. (IF 0.87) 
 - 2019
   2. [**<u> Mathematical modeling and simulation for 3D pattern formation of honeycombs.</u>**](https://www.nature.com/articles/s41598-019-56942-6) Darae Jeong, Yibao Li, **Sangkwon Kim**, Yongho Choi, Chaeyoung Lee, and Junseok Kim, *Scientific reports*, Vol. 9, 20364, 2019. **(IF 3.998, Q1)**  
