@@ -23,6 +23,7 @@ layout: publications
 <br/>
 
 # Coworkers
-[Yongho Choi](http://appliedmath.synology.me/wordpress/) - Daegu University <br/>
-[Chaeyoung Lee](https://sites.google.com/view/chaeyounglee) - Korea University <br/>
+[Yongho Choi](http://appliedmath.synology.me/wordpress/) - Assistant Professor, Division of Mathematics and Big Data, Daegu University, <br/>
+[Chaeyoung Lee](https://sites.google.com/view/chaeyounglee) - Post-doctoral researcher at the Brain Korea 21 Four team from  Department of Mathematics, Korea University <br/>
+[Seunggyu Lee](https://sites.google.com/view/sglee/home?authuser=0) - Assistant Professor, Data Computational Science in Division of Applied Mathematical Sciences, Korea University  <br/>
 
