@@ -59,7 +59,7 @@ Ph.D.(2021) [**<u> Numerical analysis and simulation of partial differential equ
   10. [**<u> Robust optimal parameter estimation for the Susceptible-Unidentified infected-Confirmed model.</u>**](https://www.editorialmanager.com/chaos/default.aspx) (20210623) Chaeyoung Lee, Soobin Kwak, **Sangkwon Kim**, Youngjin Hwang, Yongho Choi, Junseok Kim, *Chaos, Solitons & Fractals(cfdkim@, !)*, 2021.
   11. [**<u> Non-uniform finite difference scheme for the three-dimensional time-fractional Black-Scholes equation.</u>**](https://www.editorialmanager.com/jamc/default.aspx) **Sangkwon Kim**, Chaeyoung Lee, Wonjin Lee, Soobin Kwak, Darae Jeong, Junseok Kim, *Journal of Applied Mathematics and Computing(cfdkim, !)*, 2021.
   12. [**<u> An unconditionally positivity preserving scheme for the Fisher-Kolmogorov-Petrovsky-Piscounov equation.</u>**](https://www.editorialmanager.com/jdde/default.aspx) **Sangkwon Kim**, Chaeyoung Lee, Hyun Geun Lee, Hyundong Kim, Soobin Kwak, Youngjin Hwang, Junseok Kim, *Journal of Dynamics and Differential Equations(cfdkim@, !)*, 2021.
-  13. [**<u> An adaptive time stepping algorithm for the Allen-Cahn equation.</u>**](https://www.editorialmanager.com/numa/default.aspx) Chaeyoung Lee, Jintae Park, Soobin Kwak, **Sangkwon Kim**, Yongho Choi, Junseok Kim, *Numerical Algorithms(Junseok Kim, ???)*, 2021.
+  13. [**<u> An adaptive time stepping algorithm for the Allen-Cahn equation.</u>**](https://mc.manuscriptcentral.com/mma) Chaeyoung Lee, Jintae Park, Soobin Kwak, **Sangkwon Kim**, Yongho Choi, Junseok Kim, *Mathematical Methods in the Applied Sciences(cfdkim@, no)*, 2021.
 
 
 ## In Preparation Papers
