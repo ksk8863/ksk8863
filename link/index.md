@@ -12,7 +12,7 @@ layout: publications
 
 ## Journal
 ### Numerical Scheme
-
+[*(Springer)Numerical Algorithms*](https://www.editorialmanager.com/numa/default.aspx) (Junseok Kim, ???)
 ### Image
 
 ### Finance
