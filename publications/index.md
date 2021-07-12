@@ -100,7 +100,7 @@ Ph.D.(2021) [**<u> Numerical analysis and simulation of partial differential equ
 &nbsp;&nbsp;&nbsp;김준석, 김상권, 이채영, 김현동 지음 | 이모션미디어 | 2018년 09월 15일 출간 | ISBN: 9791188145942 <br><br><br><br>
 <img align="left" width="8%" src="https://raw.githubusercontent.com/ksk8863/sangkwon.github.io/master/assets/img/modeling.png">
 &nbsp;&nbsp;&nbsp;수학적 모델링 콘텐츠. 1 <br/> 
-&nbsp;&nbsp;&nbsp;김준석, 김상권, 이채영 지음 | 지오북스 | 2020년 01월 01일 출간 | ISBN: 9791187541738( <br><br><br><br>
+&nbsp;&nbsp;&nbsp;김준석, 김상권, 이채영 지음 | 지오북스 | 2020년 01월 01일 출간 | ISBN: 9791187541738 <br><br><br><br>
 <img align="left" width="8%" src="https://raw.githubusercontent.com/ksk8863/sangkwon.github.io/master/assets/img/Octave.png">
 &nbsp;&nbsp;&nbsp;코딩교육을 위한 옥타브 <br/> 
 &nbsp;&nbsp;&nbsp;김준석, 김상권, 이채영 지음 | 이모션미디어 | 2019년 07월 15일 출간 | ISBN: 9791189876135 <br><br><br><br>
