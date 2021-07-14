@@ -11,8 +11,8 @@ layout: publications
 <br/>
 
 # Journal
-[*(Springer)Numerical Algorithms*](https://www.editorialmanager.com/numa/default.aspx) (Junseok Kim, ???)
-[*(Springer)Journal of Dynamics and Differential Equations*](https://www.editorialmanager.com/jdde/default.aspx) (cfdkim@, !)
+[*(Springer)Numerical Algorithms*](https://www.editorialmanager.com/numa/default.aspx) (Junseok Kim, ???) <br>
+[*(Springer)Journal of Dynamics and Differential Equations*](https://www.editorialmanager.com/jdde/default.aspx) (cfdkim@, !) <br>
 
 
 <br/>
