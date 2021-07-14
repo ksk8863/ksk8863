@@ -10,15 +10,9 @@ layout: publications
 
 <br/>
 
-## Journal
-### Numerical Scheme
+# Journal
 [*(Springer)Numerical Algorithms*](https://www.editorialmanager.com/numa/default.aspx) (Junseok Kim, ???)
 [*(Springer)Journal of Dynamics and Differential Equations*](https://www.editorialmanager.com/jdde/default.aspx) (cfdkim@, !)
-### Image
-
-### Finance
-
-### Analysis
 
 
 <br/>
