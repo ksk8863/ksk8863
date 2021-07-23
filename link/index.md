@@ -13,6 +13,9 @@ layout: publications
 # Journal
 [*(Springer)Numerical Algorithms*](https://www.editorialmanager.com/numa/default.aspx) (Junseok Kim, ???) <br>
 [*(Springer)Journal of Dynamics and Differential Equations*](https://www.editorialmanager.com/jdde/default.aspx) (cfdkim@, !) <br>
+[*(Springer)Journal of mathematical biology*](https://www.editorialmanager.com/jomb/default.aspx) (cfdkim, 무) <br>
+
+
 
 
 <br/>
