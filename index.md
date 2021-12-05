@@ -23,7 +23,8 @@ h-index: 3 ([Google Scholar](https://scholar.google.co.uk/citations?user=JB4JxcI
 <br/>
 
 # Employment
-* Undetermined.
+* Post-doctoral researcher at the Brain Korea 21 Four team from  Department of Mathematics, Korea University, Republic of Korea.
+  <br/> (고려대학교 4단계 BK21 수학교육연구팀)
 
 <br/>
 
