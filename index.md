@@ -11,7 +11,7 @@ Office: 636 Asan Science Building
 
 E-mail: ksk8863@korea.ac.kr
 
-h-index: 2 ([Google Scholar](https://scholar.google.co.uk/citations?user=JB4JxcIAAAAJ&hl=en))
+h-index: 3 ([Google Scholar](https://scholar.google.co.uk/citations?user=JB4JxcIAAAAJ&hl=en))
 
 <br/>
 
