@@ -2,7 +2,7 @@
 layout: publications
 ---
 
-# Publications (update: 2021.12.06)
+# Publications (update: 2022.01.26)
 
 ##### ORCID: [0000-0002-8495-819X](https://orcid.org/0000-0002-8495-819X)
 SCIE/SSCI: 26, ESCI/KCI: 4, Book: 18
@@ -39,6 +39,7 @@ Ph.D.(2021) [**<u> Numerical analysis and simulation of partial differential equ
   23. [**<u> Fast and Efficient Numerical Finite Difference Method for Multiphase Image Segmentation.</u>**](https://www.hindawi.com/journals/mpe/2021/2414209/) Yibao Li, Sungha Yoon, Jian Wang, Jintae Park, **Sangkwon Kim**, Chaeyoung Lee, Hyundong Kim, and Junseok Kim, *Mathematical Problems in Engineering*, November 2021. (IF 1.305(JCR2020), Q4, WoS 0, ISSN 1024-123X, EISSN 1563-5147) [**<u> PDF </u>**](https://github.com/ksk8863/ksk8863/raw/master/publications/paper_PDF/Fast%20and%20Efficient%20Numerical%20Finite%20Difference%20Method%20for%20Multiphase%20Image%20Segmentation.pdf)
   24. [**<u> Benchmark problems for the numerical discretization of the Cahn-Hilliard equation with a source term.</u>**]() Sungha Yoon, Hyun Geun Lee, Yibao Li, Chaeyoung Lee, Jintae Park, Sangkwon Kim, Hyundong Kim, and Junseok Kim, *Discrete Dynamics in Nature and Society*, 2021. (IF 1.348(JCR2020), Q3, WoS 0, ISSN 1026-0226, EISSN 1607-887X) [**<u> PDF </u>**](https://github.com/ksk8863/ksk8863/raw/master/publications/paper_PDF/Benchmark%20problems%20for%20the%20numerical%20discretization%20of%20the%20Cahn-Hilliard%20equation%20with%20a%20source%20term.pdf)
   25. [**<u> Non-uniform finite difference scheme for the three-dimensional time-fractional Black-Scholes equation.</u>**]() Sangkwon Kim, Chaeyoung Lee, Wonjin Lee, Soobin Kwak, Darae Jeong, and Junseok Kim, *Journal of Function Spaces*, 2021. **(IF 1.807(JCR2020), Q1(Q2), WoS 0, ISSN 2314-8896, EISSN 2314-8888)** [**<u> PDF </u>**](https://github.com/ksk8863/ksk8863/raw/master/publications/paper_PDF/Non-uniform%20finite%20difference%20scheme%20for%20the%20three-dimensional%20time-fractional%20Black-Scholes%20equation.pdf)
+  26. [**<u>Numerical simulation of the coffee-ring effect inside containers with time-dependent evaporation rate.</u>**]() Hyundong Kim, Junxiang Yang, Sangkwon Kim, Chaeyoung Lee, Sungha Yoon, Soobin Kwak, Junseok Kim, *Theoretical and Computational Fluid Dynamics*, 2022. **(IF 1.606(JCR2020), Q1, WoS 0, ISSN 0935-4964, EISSN 1432-2250)** [**<u> PDF </u>**](https://github.com/ksk8863/ksk8863/raw/master/publications/paper_PDF/Numerical%20simulation%20of%20the%20coffee-ring%20effect%20inside%20containers%20with%20time-dependent%20evaporation%20rate.pdf)
 
 
 ### ESCI/KCI
