@@ -88,8 +88,7 @@ Ph.D.(2021) [**<u> Numerical analysis and simulation of partial differential equ
 &nbsp;&nbsp;&nbsp;김준석, 김상권, 이채영 지음 | 지오북스 | 2020년 01월 01일 출간 | ISBN: 9791187541738 <br><br><br><br>
 <img align="left" width="8%" src="https://raw.githubusercontent.com/ksk8863/sangkwon.github.io/master/assets/img/Octave.png">
 &nbsp;&nbsp;&nbsp;코딩교육을 위한 옥타브 <br/> 
-&nbsp;&nbsp;&nbsp;김준석, 김상권, 이채영 지음 | 이모션미디어 | 2019년 07월 15일 출간 | ISBN: 9791189876135 <br><br><br><br>
-
+&nbsp;&nbsp;&nbsp;김준석, 김상권, 이채영 지음 | 이모션미디어 | 2019년 07월 15일 출간 | ISBN: 9791189876135 <br><br><br><br><br>
 <img align="left" width="8%" src="https://raw.githubusercontent.com/ksk8863/sangkwon.github.io/master/assets/img/voronoi.png">
 &nbsp;&nbsp;&nbsp;보르노이 다이어그램: 공공기관의 관할구역을 정할 때 사용할 수 있는 코딩 (코딩수학 할 수 있다 1) <br/> 
 &nbsp;&nbsp;&nbsp;김준석, 곽수빈, 김상권, 윤성하, 김현동, 문현, 이채영 지음 | 지오북스 | 2020년 11월 01일 출간 | ISBN: 9791187541943 <br><br><br><br>
@@ -98,8 +97,7 @@ Ph.D.(2021) [**<u> Numerical analysis and simulation of partial differential equ
 &nbsp;&nbsp;&nbsp;김준석, 김상권, 정다래, 최용호, 김성기, 김영록 지음 | 이모션미디어 | 2017년 09월 01일 출간 | ISBN: 9791188145164 <br><br><br><br>
 <img align="left" width="8%" src="https://raw.githubusercontent.com/ksk8863/sangkwon.github.io/master/assets/img/machine3.png">
 &nbsp;&nbsp;&nbsp;25시간만에 배우는 머신러닝 예제 파이썬 활용 <br/> 
-&nbsp;&nbsp;&nbsp;김준석, 김상권, 한현수, 김영록 지음 | 이모션미디어 | 2018년 01월 31일 출간 | ISBN: 9791188145324 <br><br><br><br>
-
+&nbsp;&nbsp;&nbsp;김준석, 김상권, 한현수, 김영록 지음 | 이모션미디어 | 2018년 01월 31일 출간 | ISBN: 9791188145324 <br><br><br><br><br>
 <img align="left" width="8%" src="https://raw.githubusercontent.com/ksk8863/sangkwon.github.io/master/assets/img/machine2.png">
 &nbsp;&nbsp;&nbsp;25시간만에 배우는 머신러닝 예제 (MATLAB 활용) 2판 <br/> 
 &nbsp;&nbsp;&nbsp;김준석, 김상권, 정다래, 최용호, 김성기, 김영록 지음 | 이모션미디어 | 2018년 11월 30일 출간 | ISBN: 9791188145997 <br><br><br><br>
