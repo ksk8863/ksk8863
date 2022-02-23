@@ -7,6 +7,7 @@ layout: publications
 [CFDkim](https://mathematicians.korea.ac.kr/cfdkim/), [웹하드](http://cfdkimkorea.webhard.co.kr/) <br>
 [구글스칼라](https://scholar.google.co.kr/), [턴잇인](https://www.turnitin.com/ko) <br>
 [연구포탈](https://rms.korea.ac.kr), [SCI검색](https://mjl.clarivate.com/home) <br>
+[연구재단](https://www.nrf.re.kr/biz/notice/list?menu_no=364&biz_not_gubn=notice) <br>
 
 <br/>
 
