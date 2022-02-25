@@ -5,10 +5,12 @@ layout: publications
 # Link
 [포탈](https://portal.korea.ac.kr/front/Intro.kpd), [블랙보드](https://kulms.korea.ac.kr/) <br>
 [CFDkim](https://mathematicians.korea.ac.kr/cfdkim/), [웹하드](http://cfdkimkorea.webhard.co.kr/) <br>
-[구글스칼라](https://scholar.google.co.kr/), [턴잇인](https://www.turnitin.com/ko) <br>
-[연구포탈](https://rms.korea.ac.kr), [SCI검색](https://mjl.clarivate.com/home) <br>
-[연구재단](https://www.nrf.re.kr/biz/notice/list?menu_no=364&biz_not_gubn=notice) <br>
+[구글스칼라](https://scholar.google.co.kr/), [SCI-Hub](https://sci-hub.mksa.top/) <br>
+[연구포탈](https://rms.korea.ac.kr), [WOS](https://mjl.clarivate.com/home), [Clarivate(JCR)](https://jcr.clarivate.com/jcr/home) <br>
+[연구재단](https://www.nrf.re.kr/biz/notice/list?menu_no=362), [연구시스템](https://ernd.nrf.re.kr/index.do) <br>
 [하이브레인](https://www.hibrain.net/recruitment) <br>
+[턴잇인](https://www.turnitin.com/ko) <br>
+[구글](https://www.google.co.kr/), [네이버](https://www.naver.com/)  <br>
 
 <br/>
 
