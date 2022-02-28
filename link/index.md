@@ -27,5 +27,5 @@ layout: publications
 # Coworkers
 [Yongho Choi](https://sites.google.com/view/yh-choi/) - Assistant Professor, Division of Mathematics and Big Data, Daegu University, <br/>
 [Chaeyoung Lee](https://sites.google.com/view/chaeyounglee) - Post-doctoral researcher at the Brain Korea 21 Four team from  Department of Mathematics, Korea University <br/>
-[Seunggyu Lee](https://sites.google.com/view/sglee/home?authuser=0) - Assistant Professor, Data Computational Science in Division of Applied Mathematical Sciences, Korea University  <br/>
+[Seunggyu Lee](https://sites.google.com/view/sglee/professor?authuser=0) - Assistant Professor, Data Computational Science in Division of Applied Mathematical Sciences, Korea University  <br/>
 
