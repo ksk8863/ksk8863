@@ -11,6 +11,7 @@ layout: publications
 [하이브레인](https://www.hibrain.net/recruitment) <br>
 [턴잇인](https://www.turnitin.com/ko) <br>
 [구글](https://www.google.co.kr/), [네이버](https://www.naver.com/)  <br>
+[과학데이터교육센터](https://kacademy.kisti.re.kr/course/free)  <br>
 
 <br/>
 
