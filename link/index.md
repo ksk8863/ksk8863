@@ -30,3 +30,7 @@ layout: publications
 [Chaeyoung Lee](https://sites.google.com/view/chaeyounglee) - Post-doctoral researcher at the Brain Korea 21 Four team from  Department of Mathematics, Korea University <br/>
 [Seunggyu Lee](https://sites.google.com/view/sglee/professor?authuser=0) - Assistant Professor, Data Computational Science in Division of Applied Mathematical Sciences, Korea University  <br/>
 
+
+# 기타
+[카카오톡URL썸네일제거](https://developers.kakao.com/tool/clear/og)
+
