@@ -3,7 +3,7 @@ layout: publications
 ---
 
 # Link
-[포탈](https://portal.korea.ac.kr/front/Intro.kpd), [블랙보드](https://kulms.korea.ac.kr/) <br>
+[포탈](https://portal.korea.ac.kr/front/Intro.kpd), [블랙보드](https://kulms.korea.ac.kr/), [메일](https://mail.google.com/mail/u/1/?ogbl#inbox) <br>
 [CFDkim](https://mathematicians.korea.ac.kr/cfdkim/), [웹하드](http://cfdkimkorea.webhard.co.kr/) <br>
 [구글스칼라](https://scholar.google.co.kr/), [SCI-Hub](https://sci-hub.mksa.top/) <br>
 [연구포탈](https://rms.korea.ac.kr), [WOS](https://mjl.clarivate.com/home), [Clarivate(JCR)](https://jcr.clarivate.com/jcr/home) <br>
