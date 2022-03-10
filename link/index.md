@@ -6,21 +6,12 @@ layout: publications
 [포탈](https://portal.korea.ac.kr/front/Intro.kpd), [블랙보드](https://kulms.korea.ac.kr/), [메일](https://mail.google.com/mail/u/1/?ogbl#inbox) <br>
 [CFDkim](https://mathematicians.korea.ac.kr/cfdkim/), [웹하드](http://cfdkimkorea.webhard.co.kr/) <br>
 [구글스칼라](https://scholar.google.co.kr/), [SCI-Hub](https://sci-hub.mksa.top/) <br>
-[연구포탈](https://rms.korea.ac.kr), [WOS](https://mjl.clarivate.com/home), [Clarivate(JCR)](https://jcr.clarivate.com/jcr/home) <br>
-[연구재단](https://www.nrf.re.kr/biz/notice/list?menu_no=362), [연구시스템](https://ernd.nrf.re.kr/index.do) <br>
+[WOS](https://mjl.clarivate.com/home), [Clarivate(JCR)](https://jcr.clarivate.com/jcr/home) <br>
+[연구포탈](https://rms.korea.ac.kr), [연구재단](https://www.nrf.re.kr/biz/notice/list?menu_no=362), [연구시스템](https://ernd.nrf.re.kr/index.do) <br>
 [하이브레인](https://www.hibrain.net/recruitment) <br>
 [턴잇인](https://www.turnitin.com/ko) <br>
 [구글](https://www.google.co.kr/), [네이버](https://www.naver.com/)  <br>
 [과학데이터교육센터](https://kacademy.kisti.re.kr/course/free)  <br>
-
-<br/>
-
-# Journal
-[*(Springer)Numerical Algorithms*](https://www.editorialmanager.com/numa/default.aspx) (Junseok Kim, ???) <br>
-[*(Springer)Journal of Dynamics and Differential Equations*](https://www.editorialmanager.com/jdde/default.aspx) (cfdkim@, !) <br>
-[*(Springer)Journal of mathematical biology*](https://www.editorialmanager.com/jomb/default.aspx) (cfdkim, 무) <br>
-
-
 
 
 <br/>
@@ -33,4 +24,5 @@ layout: publications
 
 # 기타
 [카카오톡URL썸네일제거](https://developers.kakao.com/tool/clear/og)
+[영어글수](https://wordcounter.net/)
 
