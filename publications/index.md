@@ -57,7 +57,7 @@ Ph.D.(2021) [**<u> Numerical analysis and simulation of partial differential equ
  6. [**<u> An adaptive time stepping algorithm for the Allen-Cahn equation.</u>**]() Chaeyoung Lee, Jintae Park, Soobin Kwak, **Sangkwon Kim**, Yongho Choi, Seokjun Ham, Junseok Kim, *Applications of Mathematics_미확인*, 2022.
  7. [**<u> Monte Carlo simulation of the coffee-ring effect on porous papers.</u>**]() Junseok Kim, Youngjin Hwang, **Sangkwon Kim**, Chaeyoung Lee, Soobin Kwak, submitted, *Journal of Engineering Mathematics_미확인*, 2022. 
  8. [**<u> A practical Monte Carlo method for pricing equity-linked securities with time-dependent volatility and interest rate.</u>**](https://www.editorialmanager.com/csem/default1.aspx) **Sangkwon Kim**, Jisang Lyu, Wonjin Lee, Eunchae Park, Hanbyeol Jang, Chaeyoung Lee, and Junseok Kim, *Computational Economics*, 2022. (cfdkim,!)
- 9. [**<u> Estimation of total cost required in controlling COVID-19 outbreaks by financial incentives.</u>**](https://www.editorialmanager.com/retrec/default1.aspx) **Sangkwon Kim**, Youngjin Hwang, Chaeyoung Lee, Soobin Kwak, Junseok Kim, *Research in Transportation Economics*, 2022. (cfdkim,!)
+ 9. [**<u> Estimation of total cost required in controlling COVID-19 outbreaks by financial incentives.</u>**](https://www.editorialmanager.com/ahea/default1.aspx) **Sangkwon Kim**, Youngjin Hwang, Chaeyoung Lee, Soobin Kwak, Junseok Kim, *Applied Health Economics and Health Policy*, 2022. (cfdkim@,무)
 
 
 <br/>
