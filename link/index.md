@@ -23,6 +23,15 @@ layout: publications
 [Seunggyu Lee](https://sites.google.com/view/sglee/professor?authuser=0) - Assistant Professor, Data Computational Science in Division of Applied Mathematical Sciences, Korea University  <br/>
 
 
+<br/>
+
+# SPH 참고
+[HPC Lab.(Multicore Programing)](https://sites.google.com/view/hpclab/home?authuser=0)
+
+
+
+
+
 # 기타
 [카카오톡URL썸네일제거](https://developers.kakao.com/tool/clear/og)  <br>
 [영어글수](https://wordcounter.net/)
