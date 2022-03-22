@@ -12,6 +12,7 @@ layout: publications
 [턴잇인](https://www.turnitin.com/ko) <br>
 [구글](https://www.google.co.kr/), [네이버](https://www.naver.com/)  <br>
 [과학데이터교육센터](https://kacademy.kisti.re.kr/course/free)  <br>
+[CoLab(코랩)](https://colab.research.google.com/)  <br>
 
 
 <br/>
@@ -23,6 +24,6 @@ layout: publications
 
 
 # 기타
-[카카오톡URL썸네일제거](https://developers.kakao.com/tool/clear/og)
+[카카오톡URL썸네일제거](https://developers.kakao.com/tool/clear/og)  <br>
 [영어글수](https://wordcounter.net/)
 
