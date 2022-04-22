@@ -49,6 +49,7 @@ Ph.D.(2021) [**<u> Numerical analysis and simulation of partial differential equ
  3. [**<u> Fast pricing of four-asset equity-linked securities using brownian bridge.</u>**](https://www.koreascience.or.kr/article/JAKO202128640582173.page) Changwoo Yoo, Yongho Choi, **Sangkwon Kim**, Soobin Kwak, Youngjin Hwang, and Junseok Kim, *Journal of the Korean Society for Industrial and Applied Mathematics*, Vol. 25(3), pp. 82-92, September 2021. (IF 0.24(JCR2020), Q4, WoS 0, ISSN 1226-9433, EISSN 1229-0645) [**<u> PDF </u>**](https://github.com/ksk8863/ksk8863/raw/master/publications/paper_PDF/Fast%20pricing%20of%20four%20asset%20equity-linked%20securities%20using%20Brownian%20bridge.pdf)
  4. [**<u> Efficient and accurate finite difference method for the four underlying asset ELS.</u>**](https://papersearch.net/thesis/article.asp?key=3915522) Hyundong Kim, **Sangkwon Kim**, Hyeongseok Hwang, Yongho Choi, Soobin Kwak, Youngjin Hwang, Sangkwon Kim, and Junseok Kim, *Journal of the Korean Society of Mathematical Education Series B: THE PURE AND APPLIED MATHEMATICS*, Vol. 28(4), pp. 329-341, August 2021. (IF 0.11(JCR2020), Q4, WoS 0, ISSN 1226-0657, EISSN 2287-6081) [**<u> PDF </u>**](https://github.com/ksk8863/ksk8863/raw/master/publications/paper_PDF/Efficient%20and%20accurate%20finite%20difference%20method%20for%20the%20four%20underlying%20asset%20ELS.pdf)
 
+<!-- 
 ## Summitted
  1. [**<u> Phase-field computations of anisotropic ice crystal growth on a spherical surface.</u>**]() Chaeyoung Lee, Sungha Yoon, Jintae Park, Hyundong Kim, Yibao Li, Darae Jeong, **Sangkwon Kim**, Soobin Kwak, Junseok Kim, *Computers and Mathematics with Applications_미확인*, 2022.
  2. [**<u> Finite volume scheme for the lattice Boltzmann method on curved surfaces in 3D.</u>**]() Junxiang Yang, Zhijun Tan, **Sangkwon Kim**, Chaeyoung Lee, Soobin Kwak, Junseok Kim, *Engineering with Computers_미확인*, 2022. 
@@ -58,7 +59,7 @@ Ph.D.(2021) [**<u> Numerical analysis and simulation of partial differential equ
  6. [**<u> A practical Monte Carlo method for pricing equity-linked securities with time-dependent volatility and interest rate.</u>**](https://www.editorialmanager.com/csem/default1.aspx) **Sangkwon Kim**, Jisang Lyu, Wonjin Lee, Eunchae Park, Hanbyeol Jang, Chaeyoung Lee, and Junseok Kim, *Computational Economics*, 2022. (cfdkim,!)
  7. [**<u> Classification of ternary data using the ternary Allen-Cahn system for small data sets.</u>**](https://www.editorialmanager.com/csda/default1.aspx) Donghun Lee, **Sangkwon Kim**, Hyun Geun Lee, Soobin Kwak, Jian Wang, Junseok Kim, *Computers & Industrial Engineering*, 2022. (cfdkim@,!)
  8. [**<u> Estimation of total cost required in controlling COVID-19 outbreaks by financial incentives.</u>**](https://www.editorialmanager.com/ahea/default1.aspx) **Sangkwon Kim**, Youngjin Hwang, Chaeyoung Lee, Soobin Kwak, Junseok Kim, *Applied Health Economics and Health Policy*, 2022. (cfdkim@,무)
-
+ -->
 
 <br/>
 
