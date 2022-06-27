@@ -18,7 +18,10 @@ layout: publications
 <br/>
 
 # Funds
-
+1. 2022년 신진연구(세종과학펠로우십): 2022.03.01 ~ 2027.02.28
+   국문: 이 성과는 정부(과학기술정보통신부)의 재원으로 한국연구재단의 지원을 받아 수행된 연구임(No. 2022R1C1C2005275). 
+   영문: This work was supported by the National Research Foundation of Korea(NRF) grant funded by the Korea government(MSIT) (No. 2022R1C1C2005275). 
+   ※ MSIT: Ministry of Science and ICT
 <br/>
 
 
