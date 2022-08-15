@@ -28,6 +28,7 @@ layout: publications
 # SPH 참고
 [HPC Lab.(Multicore Programing)](https://sites.google.com/view/hpclab/home?authuser=0)  <br/>
 [CUDA_Introduction](https://enccs.github.io/OpenACC-CUDA-beginners/#)   <br/>
+[SPH Lab](https://snueslab.com/index#ABOUT)      <br/>
 
 
 
