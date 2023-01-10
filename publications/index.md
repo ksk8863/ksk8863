@@ -2,7 +2,7 @@
 layout: publications
 ---
 
-# Publications (update: 2022.08.06)
+# Publications (update: 2023.01.10)
 
 ##### ORCID: [0000-0002-8495-819X](https://orcid.org/0000-0002-8495-819X)
 SCIE/SSCI: 32, ESCI/KCI: 4, Book: 18
