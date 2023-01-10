@@ -46,6 +46,11 @@ Ph.D.(2021) [**<u> Numerical analysis and simulation of partial differential equ
   30. [**<u> Classification of ternary data using the ternary Allen-Cahn system for small data sets. </u>**](https://doi.org/10.1063/5.0094551) Donghun Lee, **Sangkwon Kim**, Hyun Geun Lee, Soobin Kwak, Jian Wang, and Junseok Kim, *AIP Advances*, 12(6), 065324, June 2022. **(IF 1.697(JCR2021), Q3(25.78), WoS 0, EISSN 2158-3226)** [**<u> PDF </u>**](https://github.com/ksk8863/ksk8863/raw/master/publications/paper_PDF/30.%20Classification%20of%20ternary%20data%20using%20the%20ternary%20Allen-Cahn%20system%20for%20small%20data%20sets.pdf)
   31. [**<u> An adaptive time stepping algorithm for the Allen-Cahn equation. </u>**](https://doi.org/10.1155/2022/2731593) Chaeyoung Lee, Jintae Park, Soobin Kwak, **Sangkwon Kim**, Yongho Choi, Seokjun Ham, Junseok Kim, *Journal of Function Spaces*, Volume 2022, Article ID 2731593, Jul 2022. **(IF 1.281(JCR2021), Q2(70.33), WoS 0, ISSN 2314-8896, EISSN 2314-8888)** [**<u> PDF </u>**](https://github.com/ksk8863/ksk8863/raw/master/publications/paper_PDF/31.%20An%20adaptive%20time%20stepping%20algorithm%20for%20the%20Allen-Cahn%20equation.pdf)
   32. [**<u> Reconstructing the local volatility surface from market option prices. </u>**](https://doi.org/10.3390/math10142537) Soobin Kwak, Youngjin Hwang, Yongho Choi, Jian Wang, **Sangkwon Kim**, Junseok Kim, *Mathematics*, 10(14), Article ID 2537, July 2022. **(IF 2.592(JCR2021), Q1(93.83), WoS 0, WoS 0, EISSN 2227-7390)** [**<u> PDF </u>**](https://github.com/ksk8863/ksk8863/raw/master/publications/paper_PDF/32.%20Reconstructing%20the%20local%20volatility%20surface%20from%20market%20option%20prices.pdf)
+  33. [**<u> Phase-field computations of anisotropic ice crystal growth on a spherical surface. </u>**](https://doi.org/10.1016/j.camwa.2022.08.035) Chaeyoung Lee, Sungha Yoon, Jintae Park, Hyundong Kim, Yibao Li, Darae Jeong, **Sangkwon Kim**, Soobin Kwak, Junseok Kim, *Computers and Mathematics with Applications*, 125(1), 25-33, September 2022. **(IF 3.218(JCR2021), Q1(90.82), WoS 0, WoS 0, ISSN 0898-1221, EISSN 1873-7668)** [**<u> PDF </u>**](https://github.com/ksk8863/ksk8863/raw/master/publications/paper_PDF/33.%20Phase-field%20computations%20of%20anisotropic%20ice%20crystal%20growth%20on%20a%20spherical.pdf)
+  34. [**<u> Estimation of total cost required in controlling COVID-19 outbreaks by financial incentives. </u>**](https://ksk8863.github.io/ksk8863/publications/) **Sangkwon Kim**, Youngjin Hwang, Chaeyoung Lee, Soobin Kwak, Junseok Kim, *International Journal of Environmental Research and Public Health*, accept, 2023. **(IF 4.614(JCR2021), Q1(75.55), WoS 0, WoS 0, EISSN 1660-4601)** [**<u> PDF </u>**](https://github.com/ksk8863/ksk8863/raw/master/publications/paper_PDF/33.Estimation%20of%20Total%20Cost%20Required%20in%20Controlling%20COVID-19Outbreaks%20by%20Financial%20Incentives.pdf)
+
+
+
 
 
 ### ESCI/KCI
@@ -57,12 +62,11 @@ Ph.D.(2021) [**<u> Numerical analysis and simulation of partial differential equ
 <!-- 
 ## Summitted
  1. [**<u> Phase-field computations of anisotropic ice crystal growth on a spherical surface.</u>**](https://ksk8863.github.io/ksk8863/publications/) Chaeyoung Lee, Sungha Yoon, Jintae Park, Hyundong Kim, Yibao Li, Darae Jeong, **Sangkwon Kim**, Soobin Kwak, Junseok Kim, *Computers and Mathematics with Applications*, 2022.
- 2. [**<u> An adaptive time stepping algorithm for the Allen-Cahn equation.</u>**](https://ksk8863.github.io/ksk8863/publications/) Chaeyoung Lee, Jintae Park, Soobin Kwak, **Sangkwon Kim**, Yongho Choi, Seokjun Ham, and Junseok Kim, *Journal of Function Spaces*, 2022.
+ 
  3. [**<u> Monte Carlo simulation of the coffee-ring effect on porous papers.</u>**](https://ksk8863.github.io/ksk8863/publications/) Junseok Kim, Youngjin Hwang, **Sangkwon Kim**, Chaeyoung Lee, Soobin Kwak, submitted, *Computational Economics*, 2022. 
+
  4. [**<u> A practical Monte Carlo method for pricing equity-linked securities with time-dependent volatility and interest rate.</u>**]([https://www.editorialmanager.com/csem/default1.aspx](https://ksk8863.github.io/ksk8863/publications/)) **Sangkwon Kim**, Jisang Lyu, Wonjin Lee, Eunchae Park, Hanbyeol Jang, Chaeyoung Lee, and Junseok Kim, *Computational Economics*, 2022.
- 5. [**<u> Estimation of total cost required in controlling COVID-19 outbreaks by financial incentives.</u>**]([https://www.editorialmanager.com/ahea/default1.aspx](https://ksk8863.github.io/ksk8863/publications/)) **Sangkwon Kim**, Youngjin Hwang, Chaeyoung Lee, Soobin Kwak, and Junseok Kim, *Computational and Mathematical Methods in Medicine*, 2022.
- 6. [**<u> Reconstructing the local volatility surface from market option prices.</u>**]([https://www.editorialmanager.com/ahea/default1.aspx](https://ksk8863.github.io/ksk8863/publications/)) Soobin Kwak, Youngjin Hwang, Yongho Choi, Jian Wang, Sangkwon Kim, and Junseok Kim, *Mathematics*, 2022.
- 7. [**<u> Monte Carlo simulation of the coffee-ring effect on porous papers.</u>**]([https://www.editorialmanager.com/ahea/default1.aspx](https://ksk8863.github.io/ksk8863/publications/)) Youngjin Hwang, Sangkwon Kim, Chaeyoung Lee, Soobin Kwak, and Junseok Kim, *International Journal of Chemical Engineering*, 2022.
+
 
 
  -->
