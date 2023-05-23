@@ -130,3 +130,15 @@ Ph.D.(2021) [**<u> Numerical analysis and simulation of partial differential equ
 <img align="left" width="8%" src="https://raw.githubusercontent.com/ksk8863/sangkwon.github.io/master/assets/img/appliedmath.png">
 &nbsp;&nbsp;&nbsp;파이썬 활용 산업응용수학의 기본 ELS주가연계증권, 이미지분할, 전염병모델, 대류확산방정식 <br/> 
 &nbsp;&nbsp;&nbsp;김준석, 김상권, 이채영, 정다래, 최용호, 곽수빈 지음 | 지오북스 | 2020년 09월 10일 출간 | ISBN: 9791187541882 
+
+<img align="left" width="8%" src="https://github.com/ksk8863/ksk8863/blob/master/assets/img/%EC%BD%94%EB%94%A9%EC%88%98%ED%95%99%ED%8C%8C%EC%9D%B4%EC%8D%AC1.jpg?raw=true">
+&nbsp;&nbsp;&nbsp;코딩수학 파이썬. 1 <br/> 
+&nbsp;&nbsp;&nbsp;김상권, 김현동, 곽수빈, 황영진, 김준석 지음 | 지오아카데미 | 2021년 09월 01일 출간 | ISBN: 9791191346077
+
+<img align="left" width="8%" src="https://github.com/ksk8863/ksk8863/blob/master/assets/img/%EC%88%98%ED%95%99%EC%A0%81%EB%AA%A8%EB%8D%B8%EB%A7%81%EC%BD%98%ED%85%90%EC%8A%A4%ED%8C%8C%EC%9D%B4%EC%8D%AC1.jpg?raw=true">
+&nbsp;&nbsp;&nbsp;수학적 모델링 콘텐츠. 1  <br/> 
+&nbsp;&nbsp;&nbsp;김준석, 김상권, 이채영, 최용호, 곽수빈, 황영진 지음 | 지오북스 | 2021년 09월 01일 출간 | ISBN: 9791191346091
+
+<img align="left" width="8%" src="https://github.com/ksk8863/ksk8863/blob/master/assets/img/%EC%BD%94%EB%94%A9%EC%88%98%ED%95%99%ED%8C%8C%EC%9D%B4%EC%8D%AC3.jpg?raw=true">
+&nbsp;&nbsp;&nbsp;코딩수학으로 배우는 파이썬. 3  <br/> 
+&nbsp;&nbsp;&nbsp;강승윤, 김상권, 김현동, 김준석 지음 | 지오북스 | 2023년 05월 31일 출간 | ISBN: 9791191346589
