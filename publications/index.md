@@ -2,10 +2,10 @@
 layout: publications
 ---
 
-# Publications (update: 2023.05.08)
+# Publications (update: 2023.05.23)
 
 ##### ORCID: [0000-0002-8495-819X](https://orcid.org/0000-0002-8495-819X)
-SCIE/SSCI: 36, ESCI/KCI: 4, Book: 18
+SCIE/SSCI: 36, ESCI/KCI: 4, Book: 21
 
 ## Thesis
 M.S.(2019) [**<u> Numerical simulation of the fluid flow on stairs.</u>**](https://ksk8863.github.io/ksk8863/publications/)<br>
