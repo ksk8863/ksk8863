@@ -28,5 +28,6 @@ h-index: 6 ([Google Scholar](https://scholar.google.co.uk/citations?user=JB4JxcI
 * Phase-Field Models
 * Computational Fluid Dynamics
 * Mathematics Finance
+* Particle based method(SPH)
 * Deep Learning with Physics
 * Mathematics Modeling
