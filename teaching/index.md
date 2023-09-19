@@ -29,10 +29,10 @@ layout: publications
 * 2022-Fall
   - (FNEG310) Theory of Financial Derivatives
   - (FNEG211) Introduction to Quantitative Finance (Matlab)
-* 2023-Spring (ongoing)
+* 2023-Spring
   - (FNEG310) Theory of Financial Derivatives
   - (FNEG211) Introduction to Quantitative Finance (Matlab)
-* 2023-Fall (scheduled)
+* 2023-Fall (ongoing)
   - (FNEG310) Theory of Financial Derivatives
   - (FNEG211) Introduction to Quantitative Finance (Matlab)
 
