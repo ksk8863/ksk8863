@@ -65,6 +65,17 @@ Ph.D.(2021) [**<u> Numerical analysis and simulation of partial differential equ
  4. [**<u> Efficient and accurate finite difference method for the four underlying asset ELS.</u>**](https://papersearch.net/thesis/article.asp?key=3915522) Hyundong Kim, **Sangkwon Kim**, Hyeongseok Hwang, Yongho Choi, Soobin Kwak, Youngjin Hwang, Sangkwon Kim, and Junseok Kim, *Journal of the Korean Society of Mathematical Education Series B: THE PURE AND APPLIED MATHEMATICS*, 28(4), 329-341, August 2021. ISSN 1226-0657, EISSN 2287-6081. [**<u> PDF </u>**](https://github.com/ksk8863/ksk8863/raw/master/publications/paper_PDF/Efficient%20and%20accurate%20finite%20difference%20method%20for%20the%20four%20underlying%20asset%20ELS.pdf)
 
 
+### Summited
+
+  1. Simulation of dendritic growth on a spherical surface using a multi-component phase-field model [**<u> (20241223 JunseokKim, due by April 22) </u>**](https://www.editorialmanager.com/ichmt/default2.aspx) **Sangkwon Kim**, Soobin Kwak, Seokjun Ham, Youngjin Hwang, Junseok Kim, submitted, ​International Communications in Heat and Mass Transfer, 2025.
+  2. Reconstruction of convexity-preserving local volatility functions [**<u> (20250417) </u>**](https://www.editorialmanager.com/jocsci/default2.aspx) **Sangkwon Kim**, Jian Wang, Soobin Kwak, Hyundong Kim, Yunjae Nam, Junseok Kim, submitted, Journal of Computational Science, 2025.
+  3. Binary classification of noisy and imbalanced data using a high-order Allen-Cahn equation with a fidelity term [**<u> (20250503) </u>**](https://www.editorialmanager.com/ins/default2.aspx) **Sangkwon Kim**, Youngjin Hwang, Junseok Kim, submitted, Information Sciences, 2025.
+  4. Restoration of partially damaged fingerprints using a partial differential equation [**<u> (20250514) </u>**](https://www.editorialmanager.com/pr/default2.aspx) **Sangkwon Kim**, Yibao Li, Soobin Kwak, Junseok Kim, submitted, Pattern Recognition, 2025.
+  5. Classification of N-component data using the vector-valued Allen–Cahn equations [**<u> (20250519) </u>**](https://www.editorialmanager.com/prletters/default2.aspx) **Sangkwon Kim**, Hyun Geun Lee, Youngjin Hwang, Soobin Kwak, Seokjun Ham, Junseok Kim, submitted, Pattern Recognition Letters, 2025.
+  6. Unconditionally​ ​maximum​ ​principle​ ​preserving​ ​scheme​ ​for​ ​the​ ​Allen-Cahn​ ​equation​ ​with​ ​a​ ​logarithmic​ ​free​ ​energy [**<u> (20250322) </u>**](https://www.editorialmanager.com/camwa/default2.aspx) Junxiang Yang, **Sangkwon Kim**, Junseok Kim, submitted,  ​​Computers and Mathematics with Applications, 2025.
+  7. Reconstructing initial conditions through inverse problems in normalized time-fractional diffusion equations [**<u> (20250326) </u>**](https://www.editorialmanager.com/matcom/default2.aspx) Soobin Kwak, **Sangkwon Kim**, Junseok Kim, submitted, ​Mathematics​ ​and​ ​Computers​ ​in​ ​Simulation, 2025.
+
+
 <br/>
 
 # Books
