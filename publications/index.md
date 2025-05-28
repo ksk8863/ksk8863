@@ -65,7 +65,7 @@ Ph.D.(2021) [**<u> Numerical analysis and simulation of partial differential equ
  4. [**<u> Efficient and accurate finite difference method for the four underlying asset ELS.</u>**](https://papersearch.net/thesis/article.asp?key=3915522) Hyundong Kim, **Sangkwon Kim**, Hyeongseok Hwang, Yongho Choi, Soobin Kwak, Youngjin Hwang, Sangkwon Kim, and Junseok Kim, *Journal of the Korean Society of Mathematical Education Series B: THE PURE AND APPLIED MATHEMATICS*, 28(4), 329-341, August 2021. ISSN 1226-0657, EISSN 2287-6081. [**<u> PDF </u>**](https://github.com/ksk8863/ksk8863/raw/master/publications/paper_PDF/Efficient%20and%20accurate%20finite%20difference%20method%20for%20the%20four%20underlying%20asset%20ELS.pdf)
 
 
-### Summited
+### Submitted
 
   1. (Under Review) Simulation of dendritic growth on a spherical surface using a multi-component phase-field model [**<u> (20241223 JunseokKim) </u>**](https://www.editorialmanager.com/ichmt/default2.aspx) **Sangkwon Kim**, Soobin Kwak, Seokjun Ham, Youngjin Hwang, Junseok Kim, submitted, ​International Communications in Heat and Mass Transfer, 2025.
   2. (Under Review) Reconstruction of convexity-preserving local volatility functions [**<u> (20250417 cfdkim@) </u>**](https://www.editorialmanager.com/jocsci/default2.aspx) **Sangkwon Kim**, Jian Wang, Soobin Kwak, Hyundong Kim, Yunjae Nam, Junseok Kim, submitted, Journal of Computational Science, 2025.
