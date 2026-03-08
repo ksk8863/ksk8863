@@ -76,6 +76,7 @@ Ph.D.(2021) [**<u> Numerical analysis and simulation of partial differential equ
   3. Reconstruction of convexity-preserving local volatility functions [**<u> (20260210) </u>**](https://link.springer.com/journal/11009) Sangkwon Kim, Jian Wang, Soobin Kwak, Hyundong Kim, Yunjae Nam, Junseok Kim, submitted, Methodology​ ​and​ ​Computing​ ​in​ ​Applied​ ​Probability, 2026.
   4. Binary classification of noisy and imbalanced data using a high-order Allen-Cahn equation with a fidelity term [**<u> (20250623) </u>**](https://submit.elsevier.com/ASOC) Sangkwon Kim, Youngjin Hwang, Junseok Kim, submitted, Applied Soft Computing, 2025.
   5. Classification of N-component data using the vector-valued Allen–Cahn equations [**<u> (20250625) </u>**](https://msp.org/camcos/2025/20-1/) Sangkwon Kim, Hyun Geun Lee, Youngjin Hwang, Soobin Kwak, Seokjun Ham, Junseok Kim, submitted, Communications​ ​in​ ​Applied​ ​Mathematics​ ​and​ ​Computational​ ​Science, 2025.
+  6. Hydrodynamics of helical bacteria with polar flagella [**<u> (20260308) </u>**]([https://msp.org/camcos/2025/20-1/](https://pof.peerx-press.org/cgi-bin/main.plex?form_type=status_details&j_id=4&ms_id=2090738&ms_rev_no=0&ms_id_key=ftd6J0PwxFq8bS39UdthzKg)) Sangkwon Kim, Wanho Lee, Yongsam Kim, Sookkyung Lim, submitted, physics of fluid, 2026.
 
 
 <br/>
