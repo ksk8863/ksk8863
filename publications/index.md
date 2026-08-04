@@ -56,9 +56,8 @@ Ph.D.(2021) [**<u> Numerical analysis and simulation of partial differential equ
   40. [**<u> Benchmark Problems for Physics-Informed Neural Networks: the Allen-Cahn Equation </u>**](https://www.aimspress.com/aimspress-data/math/2025/3/PDF/math-10-03-335.pdf) Hyun Geun Lee, Youngjin Hwang, Yunjae Nam, **Sangkwon Kim**, Junseok Kim, *AIMS​ ​Mathematics*, 2025. [**<u> PDF </u>**](https://github.com/ksk8863/ksk8863/blob/master/publications/paper_PDF/40.%20Benchmark%20problems%20for%20physics-informed%20neural%20networks%3A%20The%20Allen%E2%80%93Cahn%20equation.pdf)
   41. [**<u> An efficient computational method for simulating incompressible fluid flows on a virtual cubic surface </u>**](https://doi.org/10.1016/j.cnsns.2025.108676) Junxiang Yang, Seungyoon Kang, *Sangkwon Kim*, Youngjin Hwang, Soobin Kwak, Seokjun Ham, Junseok Kim, Communications in Nonlinear Science and Numerical Simulation, 2025. [**<u> PDF </u>**](https://github.com/ksk8863/ksk8863/blob/master/publications/paper_PDF/41.%20An%20efficient%20computational%20method%20for%20simulating%20incompressible%20fluid%20flows%20on%20a%20virtual%20cubic%20surface.pdf)
   42. [**<u> Simulation of dendritic growth on a spherical surface using a multi-component phase-field model </u>**](https://ksk8863.github.io/ksk8863/publications/) **Sangkwon Kim**, Soobin Kwak, Seokjun Ham, Youngjin Hwang, Junseok Kim, ​International Communications in Heat and Mass Transfer, 2025. [**<u> PDF </u>**](https://ksk8863.github.io/ksk8863/publications/)
+  43. [**<u> Hydrodynamics of helical bacteria with polar flagella </u>**](https://doi.org/10.1063/5.0332899) **Sangkwon Kim**, Wanho Lee, Yongsam Kim, Sookkyung Lim, ​Physics of Fluids, 2026. [**<u> PDF </u>**](https://ksk8863.github.io/ksk8863/publications/)
       
-
-
 
 
 
