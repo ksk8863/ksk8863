@@ -8,39 +8,44 @@ layout: publications
 
 
 ## Lecture
-* 2019-Fall : Korea Univ
-  - (FNEG310) Theory of Financial Derivatives
-  - (FNEG211) Introduction to Quantitative Finance (Matlab)
-* 2020-Spring : Korea Univ
-  - (FNEG310) Theory of Financial Derivatives
-  - (FNEG211) Introduction to Quantitative Finance (Matlab)
-* 2020-Fall : Korea Univ
-  - (FNEG310) Theory of Financial Derivatives
-  - (FNEG211) Introduction to Quantitative Finance (Matlab)
-* 2021-Spring : Korea Univ
-  - (FNEG310) Theory of Financial Derivatives
-  - (FNEG211) Introduction to Quantitative Finance (Matlab)
-* 2021-Fall : Korea Univ
-  - (FNEG310) Theory of Financial Derivatives
-  - (FNEG211) Introduction to Quantitative Finance (Matlab)
-* 2022-Spring : Korea Univ
-  - (FNEG310) Theory of Financial Derivatives
-  - (FNEG211) Introduction to Quantitative Finance (Matlab)
-* 2022-Fall : Korea Univ
-  - (FNEG310) Theory of Financial Derivatives
-  - (FNEG211) Introduction to Quantitative Finance (Matlab)
-* 2023-Spring : Korea Univ
-  - (FNEG310) Theory of Financial Derivatives
-  - (FNEG211) Introduction to Quantitative Finance (Matlab)
-* 2023-Fall  : Korea Univ
-  - (FNEG310) Theory of Financial Derivatives
-  - (FNEG211) Introduction to Quantitative Finance (Matlab)
-* 2025-Fall  : Hanshin Univ
-  - (FNEG310) Linear Algebra
-  - (FNEG211) Differential Equation
-* 2026-Spring  : Kumoh National Institute of Technology
-  - (FNEG310) Linear Algebra
-  - (FNEG211) Differential Equation
+* 2019-Fall : Korea Univ, Interdisciplinary Program in Financial Engineering (College of Political Science & Economics)
+  - (FNEG310) Theory of Financial Derivatives (파생금융상품론)
+  - (FNEG211) Introduction to Quantitative Finance (Matlab) (사회과학도를 위한 계량금융)
+* 2020-Spring : Korea Univ, Interdisciplinary Program in Financial Engineering (College of Political Science & Economics)
+  - (FNEG310) Theory of Financial Derivatives (파생금융상품론)
+  - (FNEG211) Introduction to Quantitative Finance (Matlab) (사회과학도를 위한 계량금융)
+* 2020-Fall : Korea Univ, Interdisciplinary Program in Financial Engineering (College of Political Science & Economics)
+  - (FNEG310) Theory of Financial Derivatives (파생금융상품론)
+  - (FNEG211) Introduction to Quantitative Finance (Matlab) (사회과학도를 위한 계량금융)
+* 2021-Spring : Korea Univ, Interdisciplinary Program in Financial Engineering (College of Political Science & Economics)
+  - (FNEG310) Theory of Financial Derivatives (파생금융상품론)
+  - (FNEG211) Introduction to Quantitative Finance (Matlab) (사회과학도를 위한 계량금융)
+* 2021-Fall : Korea Univ, Interdisciplinary Program in Financial Engineering (College of Political Science & Economics)
+  - (FNEG310) Theory of Financial Derivatives (파생금융상품론)
+  - (FNEG211) Introduction to Quantitative Finance (Matlab) (사회과학도를 위한 계량금융)
+* 2022-Spring : Korea Univ, Interdisciplinary Program in Financial Engineering (College of Political Science & Economics)
+  - (FNEG310) Theory of Financial Derivatives (파생금융상품론)
+  - (FNEG211) Introduction to Quantitative Finance (Matlab) (사회과학도를 위한 계량금융)
+* 2022-Fall : Korea Univ, Interdisciplinary Program in Financial Engineering (College of Political Science & Economics)
+  - (FNEG310) Theory of Financial Derivatives (파생금융상품론)
+  - (FNEG211) Introduction to Quantitative Finance (Matlab) (사회과학도를 위한 계량금융)
+* 2023-Spring : Korea Univ, Interdisciplinary Program in Financial Engineering (College of Political Science & Economics)
+  - (FNEG310) Theory of Financial Derivatives (파생금융상품론)
+  - (FNEG211) Introduction to Quantitative Finance (Matlab) (사회과학도를 위한 계량금융)
+* 2023-Fall : Korea Univ, Interdisciplinary Program in Financial Engineering (College of Political Science & Economics)
+  - (FNEG310) Theory of Financial Derivatives (파생금융상품론)
+  - (FNEG211) Introduction to Quantitative Finance (Matlab) (사회과학도를 위한 계량금융)
+* 2025-Fall : Hanshin Univ, Department of Financial Engineering
+  - (NM279) Linear Algebra (선형대수학)
+  - (NM280) Differential Equations (미분방정식)
+* 2026-Spring : Kumoh National Institute of Technology, Department of Mathematics & Big Data Science
+  - (DA2003) Linear Algebra (선형대수학)
+  - (DA2015) Introduction to Applied Mathematics (응용수학개론)
+  - (LA0500) 대학수학1 (교양)
+* 2026-Fall : Kumoh National Institute of Technology, Department of Mathematics & Big Data Science
+  - (DA2010) Number Theory (정수론)
+  - (DA2021) Introduction to Abstract Algebra (기초대수학)
+  - (LA0505) 대학수학2 (교양, 2 sections)
 
 
 ## Special Lecture
