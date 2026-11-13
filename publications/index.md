@@ -102,7 +102,7 @@ Ph.D.(2021) [**<u> Numerical analysis and simulation of partial differential equ
 <div style="display:flex; align-items:flex-start; gap:12px; margin-bottom:16px;">
 <img style="width:8%; min-width:56px; flex:none;" src="https://raw.githubusercontent.com/ksk8863/sangkwon.github.io/master/assets/img/codingmath5.png">
 <div>코딩수학. 5 아름다운 무한 반복 도형 | 프랙탈(Fractal) 구조<br/>
-김준석, 김상권, 최용호, 정다래 지음 | 이모션미디어 | 2018년 01월 01일 출간 | ISBN: 791188145287</div>
+김준석, 김상권, 최용호, 정다래 지음 | 이모션미디어 | 2018년 01월 01일 출간 | ISBN: 9791188145287</div>
 </div>
 <div style="display:flex; align-items:flex-start; gap:12px; margin-bottom:16px;">
 <img style="width:8%; min-width:56px; flex:none;" src="https://raw.githubusercontent.com/ksk8863/sangkwon.github.io/master/assets/img/codingmath6.png">
@@ -186,7 +186,7 @@ Ph.D.(2021) [**<u> Numerical analysis and simulation of partial differential equ
 </div>
 <div style="display:flex; align-items:flex-start; gap:12px; margin-bottom:16px;">
 <img style="width:8%; min-width:56px; flex:none;" src="https://github.com/ksk8863/ksk8863/blob/master/assets/img/%EC%88%98%ED%95%99%EC%A0%81%EB%AA%A8%EB%8D%B8%EB%A7%81%EC%BD%98%ED%85%90%EC%8A%A4%ED%8C%8C%EC%9D%B4%EC%8D%AC1.jpg?raw=true">
-<div>수학적 모델링 콘텐츠. 1<br/>
+<div>수학적 모델링 콘텐츠 파이썬 1<br/>
 김준석, 김상권, 이채영, 최용호, 곽수빈, 황영진 지음 | 지오북스 | 2021년 09월 01일 출간 | ISBN: 9791191346091</div>
 </div>
 <div style="display:flex; align-items:flex-start; gap:12px; margin-bottom:16px;">

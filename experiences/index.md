@@ -19,6 +19,11 @@ layout: publications
 
 
 
+# Patents
+1. 훼손된 지문 복원 방법, 이를 수행하기 위한 기록 매체 및 장치 [**<u> (KR 10-2396516) </u>**](https://patents.google.com/patent/KR102396516B1/ko)<br/>
+   김준석, 이채영, 김상권, 김현동, 곽수빈 | 고려대학교 산학협력단 | 출원 2021.04.23 | 등록 2022.05.12
+<br/>
+
 # Awards
 1. Excellent Paper Award of the Graduate School from Korea University, February 25, 2017.
 <br/>
