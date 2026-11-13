@@ -32,3 +32,19 @@ h-index: 11 ([Google Scholar](https://scholar.google.co.uk/citations?user=JB4Jxc
 * Particle based method(SPH)
 * Deep Learning with Physics
 * Mathematics Modeling
+
+<br/>
+
+# Coworkers
+* [Junseok Kim](https://mathematicians.korea.ac.kr/cfdkim/), Department of Mathematics, Korea University
+* [Hyundong Kim](https://human.kangwon.ac.kr/math/4052/subview.do?enc=Zm5jdDF8QEB8JTJGcHJvZmwlMkZtYXRoJTJGMTYyJTJGMjMzJTJGYXJ0Y2xWaWV3LmRvJTNGcGFnZSUzRDElMjZzcmNoQ29sdW1uJTNEJTI2c3JjaFdyZCUzRCUyNg%3D%3D), Department of Mathematics, Kangwon National University
+* Hyun Geun Lee, [Department of Mathematics, Dongguk University](https://math.dongguk.edu)
+* Darae Jeong, [Department of Mathematics, Kangwon National University](https://math.kangwon.ac.kr)
+* [Chaeyoung Lee](https://sites.google.com/view/chaeyounglee), Department of Mathematics, Kyonggi University
+* [Donsen Lee](https://sites.google.com/view/donsenlee), Department of Mathematics Education, Incheon National University
+* [Seunggyu Lee](https://sites.google.com/view/sglee), Department of Applied Mathematics, Korea University
+* [Yongho Choi](https://infosec.daegu.ac.kr/professor/list), Department of Computer & Information Engineering, Daegu University
+* [Sungha Yoon](https://1170011989.github.io/), Department of Mathematics, University of California, Irvine
+* [Yibao Li](https://gr.xjtu.edu.cn/web/yibaoli), School of Mathematics and Statistics, Xi'an Jiaotong University
+* [Jian Wang](https://faculty.nuist.edu.cn/JianWang), School of Mathematics and Statistics, Nanjing University of Information Science and Technology
+* [Junxiang Yang](https://cfdyang521.github.io/), School of Computer Science and Technology, Macau University of Science and Technology
