@@ -2,10 +2,10 @@
 layout: publications
 ---
 
-# Publications (update: 2026.11.11)
+# Publications (update: 2026.11.27)
 
 ##### ORCID: [0000-0002-8495-819X](https://orcid.org/0000-0002-8495-819X), [0009-0004-1902-6507](https://orcid.org/0009-0004-1902-6507)
-SCIE/SSCI: 45, ESCI/KCI: 4, Book: 21
+SCIE/SSCI: 46, ESCI/KCI: 4, Book: 21
 
 ## Thesis
 M.S.(2019) [**<u> Numerical simulation of the fluid flow on stairs.</u>**](https://ksk8863.github.io/ksk8863/publications/)<br>
@@ -59,6 +59,7 @@ Ph.D.(2021) [**<u> Numerical analysis and simulation of partial differential equ
   43. [**<u> Unconditionally maximum principle preserving scheme for the Allen-Cahn equation with a logarithmic free energy</u>**](https://doi.org/10.1016/j.camwa.2025.07.032) Junxiang Yang, **Sangkwon Kim**, and Junseok Kim, *Computers & Mathematics with Applications (Comput. Math. Appl.)*, 195, 366-375, 2025.07.30. ISSN 0898-1221, EISSN 1873-7668. JCR 2024 (SCIE): IF 2.5, Q1 (39/344). **JCR 2025 (SCIE): IF 2.7, Q1 (33/347).** [**<u> PDF </u>**](https://github.com/ksk8863/ksk8863/blob/master/publications/paper_PDF/43.Unconditionally%20maximum%20principle%20preserving%20scheme%20for%20the%20Allen-Cahn%20equation%20with%20a%20logarithmic%20free%20energy.pdf)
   44. [**<u> Restoration of partially damaged fingerprints using a partial differential equation</u>**](https://doi.org/10.1016/j.patcog.2025.112694) **Sangkwon Kim**, Yibao Li, Soobin Kwak, and Junseok Kim, *Pattern Recognition (Pattern Recognit.)*, 172, 112694, 2025.11.20. ISSN 0031-3203, EISSN 1873-5142. JCR 2024 (SCIE): IF 7.6, Q1 (33/368). **JCR 2025 (SCIE): IF 9.1, Q1 (26/370).** [**<u> PDF </u>**](https://github.com/ksk8863/ksk8863/blob/master/publications/paper_PDF/44.Restoration%20of%20partially%20damaged%20fingerprints%20using%20a%20partial%20differential%20equation.pdf)
   45. [**<u> Hydrodynamics of helical bacteria with polar flagella</u>**](https://doi.org/10.1063/5.0332899) **Sangkwon Kim**, Wanho Lee, Yongsam Kim, and Sookkyung Lim, *Physics of Fluids (Phys. Fluids)*, 38(6), 061912, 2026.06.25. ISSN 1070-6631, EISSN 1089-7666. **JCR 2025 (SCIE): IF 3.8, Q1 (5/43).** [**<u> PDF </u>**](https://github.com/ksk8863/ksk8863/blob/master/publications/paper_PDF/45.Hydrodynamics%20of%20helical%20bacteria%20with%20polar%20flagella.pdf)
+  46. [**<u> Unconditionally maximum bound principle preserving algorithm for the 3D Allen–Cahn equation with a time-dependent logarithmic potential</u>**](https://www.sciencedirect.com/journal/applied-numerical-mathematics) **Sangkwon Kim**, Juho Ma, Ke Zhang, Soobin Kwak, and Junseok Kim, *Applied Numerical Mathematics (Appl. Numer. Math.)*, accepted, 2026.11.27. ISSN 0168-9274, EISSN 1873-5460. **JCR 2025 (SCIE): IF 2.3, Q1 (54/347).**
       
 
 
@@ -89,7 +90,6 @@ Ph.D.(2021) [**<u> Numerical analysis and simulation of partial differential equ
   2. A smoothed particle hydrodynamics method with a discrete maximum bound principle and exact mass conservation for the advected conservative Allen–Cahn equation with particle shifting [**<u> (20261111) </u>**](https://aimspress.jams.pub/) Sangkwon Kim, under review, Electronic Research Archive, 2026.
   3. A hybrid smoothed particle hydrodynamics and thin-film method for the internal flow of pinned sessile drops under evaporation [**<u> (20261111) </u>**](https://aimspress.jams.pub/) Sangkwon Kim, under review, AIMS Mathematics, 2026.
   4. Curv-PINN: A closure-free physics-informed neural network for the surface Allen–Cahn equation [**<u> (submitted) </u>**](https://www.editorialmanager.com/MATCOM/) Hyundong Kim, Sangkwon Kim, under review, Mathematics and Computers in Simulation, 2026.
-  5. Unconditionally maximum bound principle preserving algorithm for the 3D Allen–Cahn equation with a time-dependent logarithmic potential [**<u> (20260619) </u>**](https://www.editorialmanager.com/APNUM) Sangkwon Kim, Juho Ma, Ke Zhang, Soobin Kwak, Junseok Kim, under review, Applied Numerical Mathematics, 2026.
 
 ### In revision
 
